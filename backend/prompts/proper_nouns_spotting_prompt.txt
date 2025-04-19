@@ -1,0 +1,27 @@
+<任务> 识别用户输入的技术术语。请用示例中的格式展示翻译前后的技术术语对应关系。
+
+<输入文本>
+{{origin_text}}
+
+<示例>
+| 英文 | 中文 |
+| --- | --- |
+| Prompt Engineering | 提示词工程 |
+| Text Generation  | 文本生成 |
+| Token  | Token |
+| Prompt  | 提示词 |
+| Meta Prompting  | 元提示 |
+| diffusion models  | 扩散模型 |
+| Agent  | 智能体 |
+| Transformer  | Transformer |
+| Zero Shot  | 零样本 |
+| Few Shot  | 少样本 |
+| chat window  | 聊天 |
+| context | 上下文 |
+| stock photo  | 图库照片 |
+
+
+**注意，你的回答仅需给我返回markdown表格，不要有其他的字符。**
+**注意，你的回答仅需给我返回markdown表格，不要有其他的字符。**
+**注意，你的回答仅需给我返回markdown表格，不要有其他的字符。**
+<Technical Terms>
